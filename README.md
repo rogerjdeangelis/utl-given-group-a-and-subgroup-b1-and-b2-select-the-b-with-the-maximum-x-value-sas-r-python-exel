@@ -17,7 +17,7 @@ Given group a and subgroup b1 and b2 select the b with the maximum x value sas r
            3 r sql
            4 python sql
            5 sas dow loop
-           6 not shown see https://tinyurl.com/2s92n76c
+           6 excel not shown see https://tinyurl.com/2s92n76c
 
 
     stackoverflow
